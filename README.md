@@ -1,4 +1,4 @@
-# Linear_Regresssion
+# BoomBikes_linear_regresssion
 Assignment_1, by IIITB, to build a multiple linear regression model for predicting demand for shared bikes.
 
 
